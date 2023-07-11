@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c338ef1d.css",
+    "main.js": "/react-gh-pages/static/js/main.849ff66f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Tuo.png": "/react-gh-pages/static/media/Tuo.f8bfaa07bff041dc5e14.png",
+    "static/media/12.png": "/react-gh-pages/static/media/12.f868cfa409ad78e963dd.png",
+    "static/media/arrow.png": "/react-gh-pages/static/media/arrow.7e5161e337e551e87989.png",
+    "static/media/bettermap.png": "/react-gh-pages/static/media/bettermap.024f22109d091e0a8c9d.png",
+    "static/media/dwnbtns.jpg": "/react-gh-pages/static/media/dwnbtns.9b9c389bd880c748518b.jpg",
+    "static/media/taxi-phrases.jpg": "/react-gh-pages/static/media/taxi-phrases.dfd5322ecd6a893cd0fb.jpg",
+    "static/media/1746650.png": "/react-gh-pages/static/media/1746650.873a9867aa2d553754f2.png",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.d6cbf63091e47042de5b.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.c338ef1d.css.map": "/react-gh-pages/static/css/main.c338ef1d.css.map",
+    "main.849ff66f.js.map": "/react-gh-pages/static/js/main.849ff66f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c338ef1d.css",
+    "static/js/main.849ff66f.js"
+  ]
+}
