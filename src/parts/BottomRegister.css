@@ -1,0 +1,74 @@
+.BottomRegisterContainer{
+    background-color: 	#f8f5f5;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    margin-bottom: 100px;
+}
+.BottomRegisterDownload{
+    margin-top: 10px;
+    margin-left: 10%;
+    background-color: rebeccapurple;
+    width: 80%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vw;
+}
+.BottomRegisterRegister{
+    margin-left: 10%;
+
+    width: 80%;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vw;
+}
+
+.BottomRegisterDownload_client{
+    background-color: white;
+    width: 40%;
+    height: inherit;
+    transition: transform 0.3s ease;
+}
+
+.BottomRegisterDownload_driver{
+    background-color: white;
+    width: 40%;
+    height: inherit;
+    transition: transform 0.3s ease;
+}
+
+.BottomRegister{
+    background-color: white;
+    width: 40%;
+    height: inherit;
+    transition: transform 0.3s ease;
+    gap: 5vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 20px;
+}
+
+
+.larger:hover{
+    transform: scale(1.03);
+}
+.border{
+    border: 2px solid #c0bfbf;
+}
+.arrowContainer{
+    margin-top: 10px;
+    width: 80px;
+    justify-self: flex-end;
+    align-self: flex-end;
+}
+h1{
+    margin-left: 15px;
+}

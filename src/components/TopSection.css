@@ -1,0 +1,101 @@
+:root {
+    --border--color:#ffbf69;
+    --border--color--lighter:#ffbe6983;
+    --basic--background:#ffff;
+    --stronger--orange:#ff9f1c;
+    --light--breaker: #cbf3f0;
+    --dark--background:#2ec4b6;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+    --home-bg-color: white;
+    --menu-bg-color: #cbcbc2;
+    --silde-btn-border: #808080;
+    --slide-btn-bg: #ddf2db;
+    --slide-btn-hoverbg: #f1fff1;
+    --alpha-green:  #36454F;
+    --icon-hover-color: #36454F;
+    --icon-hover-bg: #36454F;
+    --text-color: red;
+    --border-color: #ff9f1c;
+    --heading-color:  #36454F;
+    --box-shadow-color: #F2D6A2;
+    --lightest-green: #ff9f1c;
+    --light-green: #F2D6A2;
+    --dark-green: white;
+    --box-shadow: 0px 0px 3px 5px var(--box-shadow-color);
+    --border-radius: 60px 5px;
+    --fade-green: #36454F;
+  }
+
+
+@media only screen and (min-width:800px){
+    .TopContainer{
+        
+        width:  100%;
+        height: 100px;
+    
+   
+        display: flex;
+        flex-direction: column;
+       
+    
+    }
+    .TopBox{
+       
+        width: 100%;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        border-bottom: 2px solid var(--border--color);
+        position: fixed;
+        background-color: rgb(248, 247, 243);
+    
+    }
+    .MenuContainer{
+      
+       height: 90px;
+       width: 60%;
+       margin: 10px;
+       min-width: 400px;
+       display: flex;
+       flex-direction: column;
+    
+     
+    }
+    .LogoContainer{
+    
+      height: 90px;
+      padding: 0px 100px;
+      width: 30%;
+      min-width: 75px;
+      max-width: 400px;
+      display: flex;
+      justify-content: flex-end;
+
+    }
+    .Logo{
+        margin: 20px 0px 10px;
+       
+       
+      
+    }
+
+
+
+    .TopTextContainer{
+      margin-top: 100px;
+       
+        margin-left: 12.5%;
+        display: flex;
+        
+        flex-direction: column;
+        width: 75%;
+    }
+    .TopSlogan{
+      
+      width: 50%;
+      height: 900px;
+    }
+}

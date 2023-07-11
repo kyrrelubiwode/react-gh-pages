@@ -1,0 +1,40 @@
+.tt{
+    margin-top: 20px;
+
+}
+.ZamowPrzejazdContainer{
+    
+    width: 100%;
+    height: 300px;
+    
+
+    display: flex;  
+    flex-direction: column;
+ 
+
+}
+.ZamowPrzejazd{
+    width: 100%;
+    height: 250px;
+ 
+}
+.Image{
+    background-image: url('../resources/bettermap.png');
+}
+
+.container-body {
+  
+   
+  }
+  
+  .bg-container{
+    position: relative;
+    width: 100% !important;
+    height: 900px;
+
+   
+  }
+.ZamowPrzejazd__text{
+    position: relative;
+
+}

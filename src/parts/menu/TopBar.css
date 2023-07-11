@@ -1,0 +1,79 @@
+a{
+  font-size: larger;
+  font-weight: bolder;
+}
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: #f8f5f5;
+    padding: 0 20px;
+  }
+  
+  .topbar__left {
+    flex: 1;
+    margin-left: 10vw;
+  }
+  
+  .topbar__middle {
+    margin-right: 10vw;
+    margin-left: 5vw;
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    gap: 3vw;
+  }
+  
+  .topbar__middle a {
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .topbar__right {
+    margin-right: 5vw;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .topbar__right select {
+    padding: 5px;
+  }
+  .NavBarLink{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: white;
+    border: 2px solid #EBA832;
+    border-radius: 20px;
+    cursor: pointer;
+   
+  }
+  .NavBarLinkReverse{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #EBA832;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  .NavBarLinkMid{
+    border-bottom: 2px solid #EBA832;
+    border-radius: 2px;
+  }
+
+  .NavBarContainer{
+    border-radius: 10px;
+    
+    transition: transform 0.2s ease;
+  }
+
+  .NavBarContainer:hover{
+    background-color: #F58A07;
+    transform: scale(1.03);
+    color: white;
+    
+
+  }

@@ -1,0 +1,22 @@
+.OurOfferContainer{
+  
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+.OurOfferText{
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .grid-item {
+      width: calc(50% - 20px);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .grid-item {
+      width: calc(100% - 20px);
+    }
+  }

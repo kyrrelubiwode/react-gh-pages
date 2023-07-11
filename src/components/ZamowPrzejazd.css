@@ -1,0 +1,42 @@
+.ZamowPrzejazdContainer-a{
+    
+    width: 100%;
+    height: 200px;
+    
+
+    display: flex;  
+    flex-direction: column;
+ 
+
+}
+.ZamowPrzejazd-a{
+    width: 100%;
+    height: 150px;
+ 
+}
+.Image{
+    background-image: url('../resources/bettermap.png');
+}
+
+.container-body-a {
+    border-top: 2px solid #ffa01cd2;
+    border-bottom: 2px solid #ffa01cd2;
+   
+  }
+  
+  .bg-container-a {
+    position: relative;
+    width: 100% !important;
+    height: 200px;
+
+    filter: blur(5px) sepia(40%) saturate(50%);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+.ZamowPrzejazd__text{
+    position: relative;
+
+}

@@ -1,0 +1,80 @@
+.ServicesContainer{
+  
+    width: 70%;
+    margin-left: 15%;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+}
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+    width: 100%;
+
+    gap: 3vw;
+}
+.ServicesSlogan{
+
+
+    text-align: center;
+}
+.ServicesDivideSection{
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: inherit;
+}
+.SericesDividePhoto{
+    width: 45%;
+    height: inherit;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageContainer{
+    width: 500px;
+    height: 500px;
+
+    border-radius: 5%;
+}
+
+.ServicesDivideText{
+    width: 55%;
+    height: inherit;
+  
+
+    text-align: center;
+
+}
+.KierujHeader{
+    font-size: 55px;
+}
+
+
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: white;
+    border: 2px solid #EBA832;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .display-text {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }

@@ -1,0 +1,22 @@
+.GetAppContainer{
+    margin-top:180px;
+    height: 300px;
+    width: 96%;
+    background-color: #EBA832;
+    border-radius: 30px;
+    margin-left: 2%;
+    color: white;
+}
+.GetAppImage{
+   float: right;
+   margin-right: 50px;
+}
+.GetAppText{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+.GetAppDownload{
+    position: absolute;
+    width: 50px;
+}

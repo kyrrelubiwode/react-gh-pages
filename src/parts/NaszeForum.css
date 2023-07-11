@@ -1,0 +1,16 @@
+.NaszeForumContainer{
+    margin-top:80px;
+  
+    height: 300px;
+    width: 96%;
+    background-color: #EBA832;
+    border-radius: 30px;
+    margin-left: 2%;
+   
+
+}
+.NaszeForumText{
+    color: white;
+    margin-top: -20px;
+
+}
